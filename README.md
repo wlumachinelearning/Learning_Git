@@ -1,4 +1,4 @@
-# 🚀 [case]hacks Git & GitHub Curriculum Series
+# 🚀 [case]HACKS && WLU AI & ML Git Curriculum Workshops!
 #### Interactive, Course-Aligned Git Workshops for Computer Science & Software Engineering
 
 Welcome to the **[case]hacks Git Workshop Series**! 🎉 
