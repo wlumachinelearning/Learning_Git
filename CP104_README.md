@@ -1,4 +1,4 @@
-# 🚀 Welcome to GitHub Basics: Brought to you by [case]hacks
+# 🚀 Welcome to GitHub Basics! 
 
 🎉 **Congratulations on finishing CP104!** You've taken your first big step into the world of programming.
 
