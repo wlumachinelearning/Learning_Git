@@ -34,7 +34,7 @@ You’ll use this command so you can make changes using your code editor.
 </details>
 
 ```bash
-git clone https://github.com/casehacks/cp164-github-basics.git
+git clone https://github.com/wlumachinelearning/Learning_Git.git
 cd cp164-github-basics
 ```
 
@@ -60,8 +60,8 @@ git remote -v
 You should see something like:
 
 ```
-origin  https://github.com/casehacks/cp164-github-basics.git (fetch)
-origin  https://github.com/casehacks/cp164-github-basics.git (push)
+origin https://github.com/wlumachinelearning/Learning_Git.git (fetch)
+origin https://github.com/wlumachinelearning/Learning_Git.git (push)
 ```
 
 ---
