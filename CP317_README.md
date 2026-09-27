@@ -1,5 +1,5 @@
 # 🚀 GitHub Basics for CP317  
-#### Brought to you by [case]hacks 💻💡  
+#### Brought to you by [case]HACKS and the WLU AI & Machine Learning Club! 💻💡  
 
 > Congrats on making it to **CP317**! 🎉  
 > Whether you're building complex systems or collaborating with teammates, GitHub will be your best friend for version control and team-based development.  
@@ -123,7 +123,7 @@ Teamwork makes the code work! 🚀
 
 ---
 ## You did it!
-You’ve now completed both **parts of GitHub basics** with [case]hacks:
+You’ve now completed both **parts of GitHub basics** with [case]HACKS and the WLU AI & Machine Learning Club:
 - ✅ CP104: Push, Add, Commit  
 - ✅ CP164: Clone, Pull  
 - ✅ CP213: Fork, Branch 
@@ -142,10 +142,6 @@ Here are some additional resources to help you out!
 ---
 
 ## Acknowledgements
-
-This quick guide was brought to you by **[case]hacks**!
-
-Make sure to keep an eye on our repositories! We will be posting guides and videos on how to use the code you learned in class and turn it into actual projects!  
-[case]Hacks (our website link)
+Make sure to keep an eye on our repositories! We will be posting guides and videos on how to use the code you learned in class and turn it into actual projects!
 
 Happy Coding 💛!
