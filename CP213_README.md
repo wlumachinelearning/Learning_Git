@@ -1,5 +1,5 @@
 # 🚀 GitHub Basics for CP213  
-#### Brought to you by [case]hacks 💻💡  
+#### Brought to you by [case]HACKS and the WLU AI & MAchine Learning club! 💻💡  
 
 > Congrats on making it to **CP213**! 🎉  
 > Whether you're diving into data structures or working on practical coding assignments, learning how to navigate GitHub effectively will make your workflow smoother and smarter.  
