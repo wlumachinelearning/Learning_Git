@@ -103,11 +103,9 @@ git merge <branch-name>        # Merge branch into current branch
 
 ## 💛 Acknowledgements
 
-This workshop series is created and maintained by **[case]hacks**! 💻💡
+This workshop series is created and maintained by **[case]HACKS**! and the WLU AI & Machine Learning clubs! 💻💡
+Special thanks to [(Tarundeep Kaur)](https://ca.linkedin.com/in/tarundeep-kaur08) and all future contributors for helping support these iniatives :) 
 
 We create resources, guides, and hackathons designed to take the code you learn in class and help you turn it into real-world applications and portfolio projects.
-
-- 🌐 **Website:** [casehacks.ca](https://casehacks.ca)
-- 📁 **GitHub:** [github.com/casehacks](https://github.com/casehacks)
 
 Happy Coding! 🚀
