@@ -1,5 +1,5 @@
 # 🚀 GitHub Basics for CP164: Clone & Pull  
-#### Brought to you by [case]hacks 💻💡
+#### Brought to you by [case]HACKS and the WLU AI & Machine Learning Club 💻💡
 
 > Congrats on wrapping up **CP164: Data Structures**! 🎉  
 > You’ve just leveled up your problem-solving and coding skills, now let’s add some more Git commands to your toolkit.  
